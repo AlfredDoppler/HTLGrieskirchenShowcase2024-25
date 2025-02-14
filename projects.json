@@ -63,5 +63,13 @@
       "year": "2024_WS",
       "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
       "status": "0"
+    },
+  {  
+      "title": "Platformer-Game",
+      "folder": "Platformer-Game",
+      "author": "Simon Koppelstätter",
+      "year": "2024_WS",
+      "info": "Grober Pfusch. I hoff es passt jz midn zu github doa",
+      "status": "0"
     }
 ]
