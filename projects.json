@@ -63,5 +63,14 @@
       "year": "2024_WS",
       "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
       "status": "0"
+    },
+    {  
+      "title": "Geometry Dash",
+      "folder": "GeometryDash",
+      "author": "Jakob Maringer",
+      "year": "2024_WS",
+      "info": "Eher jump and run wie Geometry Dash (schaut hoid so aus)",
+      "status": "0"
     }
+
 ]
