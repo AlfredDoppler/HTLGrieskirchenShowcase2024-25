@@ -64,7 +64,14 @@
       "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
       "status": "0"
     },
-    {  
+    {
+        "title": "The HTLists",
+        "folder": "The-HTLists",
+        "author": "Simon Parzer",
+        "year": "2024_WS",
+        "status": 0
+    },
+{  
       "title": "Geometry Dash",
       "folder": "GeometryDash",
       "author": "Jakob Maringer",
@@ -72,5 +79,4 @@
       "info": "Eher jump and run wie Geometry Dash (schaut hoid so aus)",
       "status": "0"
     }
-
 ]
