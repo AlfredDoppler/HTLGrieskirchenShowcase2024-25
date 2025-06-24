@@ -114,6 +114,26 @@
         "year": "2024_WS",
         "status": 0
     },
+        "title": "AquaRiddles",
+        "folder": "AquaRiddles",
+        "author": "Gabriel Zimmermann",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "DungeonRPG",
+        "folder": "DungeonRPG",
+        "author": "Mate Szombati",
+        "year": "2024_WS",
+        "status": 0
+    },
+    {
+        "title": "DrawRPG",
+        "folder": "DrawRPG",
+        "author": "Florian Greindl",
+        "year": "2025_SS",
+        "status": 0
+    },
     {
         "title": "CrossyRoad",
         "folder": "CrossyRoad",
