@@ -1,0 +1,10 @@
+[S] Bilder verwalten: 8
+
+[S] Mitglieder verwalten: 8
+
+[S] Benutzer verwalten: 8
+[T] Benutzer hinzufügen: 2
+[T] Benutzer bearbeiten: 2
+[T] Benutzer löschen: 1
+[T] Benutzer anzeigen: 2
+[T] Benutzer Seite erstellen: 1
