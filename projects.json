@@ -114,6 +114,7 @@
         "year": "2024_WS",
         "status": 0
     },
+    {
         "title": "AquaRiddles",
         "folder": "AquaRiddles",
         "author": "Gabriel Zimmermann",
@@ -138,6 +139,13 @@
         "title": "CrossyRoad",
         "folder": "CrossyRoad",
         "author": "Lukas Wösenböck",
+        "year": "2025_SS",
+        "status": 0
+    },
+    {
+        "title": "WhiteOps",
+        "folder": "WhiteOps",
+        "author": "Marco Doblhammer",
         "year": "2025_SS",
         "status": 0
     }
