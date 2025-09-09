@@ -1,44 +1,31 @@
 [
-  {
-        "title": "empty",
-        "folder": "empty",
-        "author": "empty",
-        "year": "2024_WS",
-        "status": 1
-    },
-    {
-        "title": "empty2",
-        "folder": "empty2",
-        "author": "empty2",
-        "year": "2024_WS",
-        "status": 1
-    },
     {
         "title": "Siedler von Katan",
         "folder": "SettlerOfCatan",
         "author": "Schroll",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "Idle-BananaFarm",
         "folder": "Idle-BananaFarm",
         "author": "Boris Angerbauer",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "Tower Defense",
         "folder": "TowerDefense",
         "author": "Maximilian Krennmeir",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "ShellShockAnalog",
         "folder": "ShellshockFolder",
         "author": "Marco Doblhammer",
         "year": "2024_WS",
+        "info": "Works only in FullScreen",
         "status": 1
     },
     {
@@ -54,43 +41,35 @@
         "folder": "TowerDefense2",
         "author": "Matthias Haselwanner",
         "year": "2024_WS",
-        "status": 0
-    },
-    {  
-      "title": "top-down-shooter",
-      "folder": "top-down-shooter",
-      "author": "Daniel Kaiser",
-      "year": "2024_WS",
-      "info": "Grober zompfuschter Rogue Like, erwortet ned fui, start game by pressing 'N'",
-      "status": "0"
+        "status": -1
     },
     {
         "title": "The HTLists",
         "folder": "The-HTLists",
         "author": "Simon Parzer",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "Affensouls",
         "folder": "AffenSouls",
         "author": "Schauer Felix",
         "year": "2024_WS",
-        "status": 0
+        "status": -1
     },
     {
         "title": "Geometry Dash",
         "folder": "GeometryDash",
         "author": "Jakob Maringer",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "Superaffe",
         "folder": "Superaffe",
         "author": "Johannes Lakoschek",
         "year": "2024_WS",
-        "status": 0
+        "status": -1
     },
     {
 
@@ -98,7 +77,7 @@
         "folder": "DrawRPG",
         "author": "Florian Greindl",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "Aquadiver",
@@ -112,41 +91,27 @@
         "folder": "LeapQuest",
         "author": "Lukas Wösenböck",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "AquaRiddles",
         "folder": "AquaRiddles",
         "author": "Gabriel Zimmermann",
         "year": "2024_WS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "DungeonRPG",
         "folder": "DungeonRPG",
         "author": "Mate Szombati",
         "year": "2024_WS",
-        "status": 0
-    },
-    {
-        "title": "DrawRPG",
-        "folder": "DrawRPG",
-        "author": "Florian Greindl",
-        "year": "2025_SS",
-        "status": 0
-    },
-    {
-        "title": "CrossyRoad",
-        "folder": "CrossyRoad",
-        "author": "Lukas Wösenböck",
-        "year": "2025_SS",
-        "status": 0
+        "status": 1
     },
     {
         "title": "RacingSimulator",
         "folder": "RacingSimulator",
         "author": "Rene Schroll",
         "year": "2025_SS",
-        "status": 0
+        "status": 1
     }
 ]
