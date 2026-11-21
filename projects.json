@@ -132,42 +132,42 @@
     "folder": "AffeAffe",
     "author": "Johannes Lakoschek",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "AimTrainer",
     "folder": "AimTrainer",
     "author": "maximilianKrennmeir",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "CrossyRoad3D",
     "folder": "CrossyRoad3D",
     "author": "qBoriis",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "AffenSouls",
     "folder": "Kassemmal",
     "author": "Felix Schauer",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "Simple FPS Game",
     "folder": "KrunkerFPS",
     "author": "FHGxFREEZE",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "MyHorseRide",
     "folder": "MyHorseRide_Git",
     "author": "SchneiJana",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "PokemonGame",
@@ -181,13 +181,13 @@
     "folder": "Tomb Racer_Web",
     "author": "Jakob Maringer",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   },
   {
     "title": "Poly World",
     "folder": "WelsSimulator",
     "author": "BajtimievIslam",
     "year": "2025_SS",
-    "status": 1
+    "status": -1
   }
 ]
